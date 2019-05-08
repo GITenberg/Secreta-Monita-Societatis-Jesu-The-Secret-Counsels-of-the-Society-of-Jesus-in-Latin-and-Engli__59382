@@ -1,5 +1,8 @@
 _repo: Secreta-Monita-Societatis-Jesu-The-Secret-Counsels-of-the-Society-of-Jesus-in-Latin-and-Engli__59382
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59382-h/images/cover.jpg
 creator:
   editor:
     agent_name: Breckinridge, Robert J. (Robert Jefferson)
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35878
     wikipedia: http://en.wikipedia.org/wiki/Robert_Jefferson_Breckinridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59382#Secreta-Monita-Societatis-Jesu-The-Secret-Counsels-of-the-Society-of-Jesus-in-Latin-and-Engli_
 gutenberg_issued: '2019-04-28'
 gutenberg_type: Text
 identifiers:
