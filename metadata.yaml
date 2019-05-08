@@ -1,0 +1,34 @@
+_repo: Secreta-Monita-Societatis-Jesu-The-Secret-Counsels-of-the-Society-of-Jesus-in-Latin-and-Engli__59382
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Breckinridge, Robert J. (Robert Jefferson)
+    aliases:
+    - Breckinridge, Robert Jefferson
+    - Breckinridge, R. J. (Robert Jefferson)
+    - Breckenridge, R. J. (Robert Jefferson)
+    - Breckenridge, Robert J. (Robert Jefferson)
+    birthdate: 1800
+    deathdate: 1871
+    gutenberg_agent_id: '35878'
+    url: http://www.gutenberg.org/2009/agents/35878
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Jefferson_Breckinridge
+description: ''
+gutenberg_issued: '2019-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59382'
+  lccn: '24004688'
+language:
+- en
+- la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Jesuits -- Controversial Literature'
+- GITenberg
+title: Secreta Monita Societatis Jesu. The Secret Counsels of the Society of Jesus,
+  in Latin and English
+url: http://www.gutenberg.org/ebooks/59382
